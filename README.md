@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey! Im Vyre👋
 
 <!--
 **VyrePixels/VyrePixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- 🔭 I’m currently working on-->
+I like to do projects in various programming languages, and I also enjoy learning irl languages.
+<!---- 🌱 I’m currently learning ...-->
+Right now, im hoping to learn java or c++. in terms of verbal languages, im hoping to improve my german
+<!---- 👯 I’m looking to collaborate on ...-->
+<!---- 🤔 I’m looking for help with ...-->
+<!---- 💬 Ask me about ...-->
+Im not as experienced as others, but if theres anything that I can help with, I like to try!
+<!---- 📫 How to reach me: ...-->
+<!---- 😄 Pronouns: ...-->
+I go by He/Him, but you can call me whatever
+<!---- ⚡ Fun fact: ...-->
+
