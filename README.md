@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 <!--- 🔭 I’m currently working on-->
 I like to do projects in various programming languages, and I also enjoy learning irl languages.
+Aswell as that, I also design websites for small and large businesses! for requests, contact darraghcoconnor@gmail.com
 <!---- 🌱 I’m currently learning ...-->
 Right now, im hoping to learn java or c++. in terms of verbal languages, im hoping to improve my german
 <!---- 👯 I’m looking to collaborate on ...-->
